@@ -11,7 +11,7 @@ public class ListOfAnimals
             new Animal("Dog", "Woof Ruff"),
             new Animal("Cat", "Miaow"),
             new Animal("Cow", "Moo"),
-            new Animal("Fox", "Lalalalallala"),
+            new Animal("Fox", "Lalalalalala"),
             new Animal("Swan", "Schwa")
         };
     }

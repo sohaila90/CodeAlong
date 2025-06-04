@@ -12,3 +12,4 @@
 /Users/Sohaila/Desktop/Emne3/CodeAlong/CodeAlong/obj/Debug/net9.0/CodeAlong.pdb
 /Users/Sohaila/Desktop/Emne3/CodeAlong/CodeAlong/obj/Debug/net9.0/CodeAlong.genruntimeconfig.cache
 /Users/Sohaila/Desktop/Emne3/CodeAlong/CodeAlong/obj/Debug/net9.0/ref/CodeAlong.dll
+/Users/Sohaila/Desktop/Emne3/CodeAlong/CodeAlong/obj/Debug/net9.0/CodeAlong.sourcelink.json
